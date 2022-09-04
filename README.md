@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranavhere
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning projects or publishing research papers
+- 💞️ I’m looking to collaborate on Machine Learning Projects, and publishing Research Papers
 - 📫 How to reach me: www.linkedin.com/in/pranavkuhikar
 
 <!---
