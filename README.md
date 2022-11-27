@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pranavhere
-- 👀 I’m interested in Data Science
+- 👋 Hi
+- 👀 I’m interested in Machine Learning, AI
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects, and publishing Research Papers
 
