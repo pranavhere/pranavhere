@@ -1,6 +1,5 @@
 - 👋 Hi
-- 👀 I’m interested in Machine Learning, AI
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Machine Learning, A.I.
 - 💞️ I’m looking to collaborate on Machine Learning Projects, and publishing Research Papers
 
 
